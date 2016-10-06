@@ -1,0 +1,96 @@
+body {
+	background-color: #50514F; 
+	padding: 0;
+	margin: 0;
+}
+
+.clear {
+	clear: both;
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+header {
+	background-color: #EA9010;
+	padding: 15px 0;
+}
+
+header .logo-wrap {
+	width: 25%;
+	float: left;
+}
+
+header .logo-wrap img {
+	width: 100px;
+	height: auto;
+}
+
+header .main-nav {
+	width: 20%;
+	float: left;
+	text-align: center;
+	padding: 25px 0 0 0;
+
+}
+
+header .main-nav li {
+	display: inline-block;
+	list-style-type: none;
+	margin: 0 20px;
+}
+
+header .main-nav li a {
+	color: pink;
+	text-decoration: none!important;
+	font-size: 24px;
+}
+
+
+header .hours {
+	color: green;
+	width: 55%;
+	float: left;
+	text-align: right;
+	padding: 25px 0 0 0;
+	font-size: 24px;
+}
+
+p {
+	font-family: 'Share', sans-serif;
+}
+
+.main-content {
+	padding: 75px 0;
+}
+
+.home-img-wrap {
+	width: 50%;
+	height: auto;
+	float: left;
+}
+.home-text-wrap {
+	width: 50%;
+	height: auto;
+	float: left;
+	color: white;
+}
+
+.bbqshack-img-wrap 	{
+	width: 50%;
+	height: auto;
+	float: right;
+
+
+}
+
+.bbqshack-img-wrap img {
+	width: 100%;
+	height: auto;
+}
+
+.menu-item {
+	width: 38%;
+
+}
