@@ -76,3 +76,38 @@ p {
 	float: left;
 	color: white;
 }
+
+.bbqshack-img-wrap 	{
+	width: 50%;
+	height: auto;
+	float: right;
+
+
+}
+
+.bbqshack-img-wrap img {
+	width: 100%;
+	height: auto;
+}
+
+.menu-item {
+	width: 38%;
+
+}
+
+.menu-img {
+	float: right;
+	margin: auto;
+	height: 100px;
+}
+
+.story-content {
+	width: 60%;
+	text-align: center;
+	margin: 0 auto;
+
+}
+h1{
+	text-align:center;
+}
+
